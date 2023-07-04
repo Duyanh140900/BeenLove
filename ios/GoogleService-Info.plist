@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "957577593712",
+    "firebase_url": "https://beenlove-3397b-default-rtdb.firebaseio.com",
+    "project_id": "beenlove-3397b",
+    "storage_bucket": "beenlove-3397b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957577593712:android:ef7ae44a1b7ece1c9545b5",
+        "android_client_info": {
+          "package_name": "com.beenlove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957577593712-bd6h5g7im3gdmnfp4cmldj271q8flf7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.beenlove",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "957577593712-7v8teq9ci19a0um9kst4e89mqj0r997e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaO8ikbM5n-EBZomeY5gUVB4MdBg_t4zQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957577593712-7v8teq9ci19a0um9kst4e89mqj0r997e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
