@@ -2,6 +2,7 @@ import React from 'react';
 import {View, StyleSheet, TextInput} from 'react-native';
 
 const Input = () => {
+  console.log("hjgsfjsdn");
   return (
     <View>
       <TextInput
